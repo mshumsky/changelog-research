@@ -1,6 +1,6 @@
 {
   "name": "changelog-research",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/mshumsky/changelog-research/issues"
   },
-  "homepage": "https://github.com/mshumsky/changelog-research#readme"
+  "homepage": "https://github.com/mshumsky/changelog-research#readme",
+  "devDependencies": {
+    "@release-it/conventional-changelog": "^8.0.1",
+    "release-it": "^17.1.1"
+  }
 }

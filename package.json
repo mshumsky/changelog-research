@@ -1,0 +1,24 @@
+{
+  "name": "changelog-research",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mshumsky/changelog-research.git"
+  },
+  "keywords": [
+    "changelog",
+    "automation",
+    "research"
+  ],
+  "author": "Michael Shumsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mshumsky/changelog-research/issues"
+  },
+  "homepage": "https://github.com/mshumsky/changelog-research#readme"
+}

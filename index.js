@@ -13,3 +13,5 @@ function bubbleSort(arr) {
 	} while (swapped);
 	return arr;
 }
+
+function test() {}
